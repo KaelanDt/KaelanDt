@@ -1,2 +1,7 @@
-Hi, I'm Kaelan, a 3rd year physics PhD student interested in many questions (in and out of physics) such as ["Why do isolated quantum systems thermalize?"](https://en.wikipedia.org/wiki/Eigenstate_thermalization_hypothesis) and ["What is it like to be a bat?"](https://en.wikipedia.org/wiki/What_Is_It_Like_to_Be_a_Bat%3F). 
+Hi :wave:
+
+I'm Kaelan, a quantum physics/computing PhD. I was interested in quantum physics ever since I first encountered it, and then quantum computers were my main interest for ~2 years. Ultimately, I became uncertain of their near-term feasability, because it's just a very difficult engineering problem (thanks [decoherence](https://en.wikipedia.org/wiki/Quantum_decoherence)). I was also always interested in AI, hence I started to look at machine learning methods for quantum computing and simulation. 
+
+With the recent AI boom, I left quantum in my bookshelf, and am now focused on AI software and hardware.
+
 
