@@ -4,4 +4,4 @@ I'm Kaelan, a recent quantum physics/computing PhD graduate who's always been ex
 
 While exploring the quantum realm, I also had a secret crush on AI. So, I decided to mix things up and started dabbling in machine learning methods for quantum computing and simulation. With my team at the University of Paris, we published a few [papers](https://scholar.google.com/citations?user=iM2qRCkAAAAJ) on the topic.
 
-A few months ago, I bid farewell to quantum and am now all-in on building physics-based AI software and hardware at . 🚀
+A few months ago, I bid farewell to quantum and am now all-in on building physics-based AI software and hardware at [Normal](https://github.com/normal-computing).
